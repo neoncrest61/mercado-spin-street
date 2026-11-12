@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mercado Spin Street</string>
+    <string name="app_title">MERCADO SPIN STREET</string>
+
+    <string name="play">PLAY</string>
+    <string name="spin">SPIN</string>
+    <string name="spinning">SPINNING...</string>
+    <string name="golden_spin">GOLDEN SPIN</string>
+    <string name="spin_again">SPIN AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="levels">LEVELS</string>
+    <string name="collection">COLLECTION</string>
+    <string name="progress">PROGRESS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="start_run">START</string>
+    <string name="market_grant">MARKET GRANT</string>
+    <string name="resume">RESUME</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset_bazaar">RESET BAZAAR</string>
+
+    <string name="level_select_title">MARKET STREET</string>
+    <string name="collection_title">COLLECTION</string>
+    <string name="progress_title">PROGRESS</string>
+    <string name="settings_title">SETTINGS</string>
+
+    <string name="splash_tagline">LIGHT UP THE NIGHT BAZAAR</string>
+    <string name="splash_loading">LOADING...</string>
+    <string name="menu_tagline">FIVE SPINS. ONE STALL. LIGHT IT UP.</string>
+    <string name="game_hint">TAP SPIN · 3 IN A ROW PAYS</string>
+    <string name="no_deal">NO DEAL</string>
+    <string name="street_strip">NIGHT STREET</string>
+
+    <string name="disclaimer_short">18+ · FICTIONAL COINS · NO REAL MONEY</string>
+    <string name="disclaimer_mini">18+ FICTIONAL COINS</string>
+    <string name="disclaimer_long">18+ · FICTIONAL ENTERTAINMENT · NO REAL-MONEY PLAY, NO PURCHASES, NO PAYOUTS</string>
+
+    <string name="coins_value">%1$s COINS</string>
+    <string name="win_banner">+%1$s COINS</string>
+    <string name="streak_value">x%1$s</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="stat_fraction">%1$d/%2$d</string>
+    <string name="goods_meter">GOODS %1$d / %2$d</string>
+    <string name="spin_counter">SPIN %1$d / %2$d</string>
+    <string name="market_seed">MARKET SEED %1$d</string>
+    <string name="bazaar_level">BAZAAR LVL %1$d</string>
+    <string name="level_xp">LVL %1$d · %2$d / %3$d XP</string>
+    <string name="menu_target">TARGET %1$d</string>
+    <string name="active_bonus">ACTIVE BONUS +%1$d%% COINS</string>
+
+    <string name="stall_brief">TARGET %1$d GOODS · 5 SPINS</string>
+    <string name="stall_locked_hint">REACH BAZAAR LVL %1$d</string>
+    <string name="stall_reward_hint">UNLOCKS: %1$s</string>
+    <string name="stall_lit_hint">STALL LIT · LANTERNS BURNING</string>
+    <string name="stall_all_lit_hint">EVERY STALL IS LIT · RUN THEM FOR COINS</string>
+
+    <string name="result_lit">STALL LIT!</string>
+    <string name="result_lit_sub">%1$s IS GLOWING</string>
+    <string name="result_missed">MARKET CLOSED</string>
+    <string name="result_missed_sub">%1$d GOODS NEEDED · YOU GOT %2$d</string>
+    <string name="result_broke">COINS RUN DRY</string>
+    <string name="result_broke_sub">THE MARKET WILL STAKE YOU</string>
+    <string name="reward_decoration">NEW DECORATION · %1$s</string>
+    <string name="reward_xp">+%1$d BAZAAR XP</string>
+
+    <string name="collection_empty">NO DECORATIONS YET · RUN A STALL TO BRING ONE HOME</string>
+    <string name="progress_empty">YOUR STREET IS DARK · LIGHT THE FIRST STALL</string>
+    <string name="set_header_active">%1$s %2$d/%3$d · +5%% COINS</string>
+    <string name="set_header_idle">%1$s %2$d/%3$d · +5%% AT 3/3</string>
+
+    <string name="unlock_stall">LIGHT STALL %1$d</string>
+    <string name="unlock_level">REACH BAZAAR LVL %1$d</string>
+    <string name="unlock_spins">SPIN %1$d TIMES</string>
+    <string name="unlock_missions">FINISH %1$d MISSIONS</string>
+    <string name="unlock_big_win">WIN %1$d IN ONE SPIN</string>
+
+    <string name="pause_title">MARKET PAUSED</string>
+    <string name="pause_body">THE REELS ARE WAITING. RESUME THE RUN OR WALK BACK TO THE PLAZA.</string>
+    <string name="reset_title">RESET BAZAAR?</string>
+    <string name="reset_body">THIS CLEARS DECORATIONS, LEVEL AND STATS AND RESTORES 2,500 COINS.</string>
+
+    <string name="setting_speed">REEL SPEED</string>
+    <string name="setting_speed_hint">HOW LONG THE REELS TAKE TO SETTLE.</string>
+    <string name="setting_payline">PAY LINE HIGHLIGHT</string>
+    <string name="setting_payline_hint">DRAW THE WINNING LINE OVER THE BOARD.</string>
+    <string name="setting_celebration">CELEBRATION</string>
+    <string name="setting_celebration_hint">CONFETTI AND BANNER BOUNCE ON A LIT STALL.</string>
+    <string name="setting_starting_stall">STARTING STALL</string>
+    <string name="setting_starting_stall_hint">WHICH STALL THE MAIN BUTTON OPENS.</string>
+    <string name="setting_reset">RESET BAZAAR</string>
+    <string name="setting_reset_hint">CLEAR EVERY DECORATION AND RESTART THE STREET.</string>
+
+    <string name="speed_relaxed">RELAXED</string>
+    <string name="speed_normal">NORMAL</string>
+    <string name="speed_quick">QUICK</string>
+    <string name="start_last_played">LAST PLAYED</string>
+    <string name="start_always_first">CHILI ROW</string>
+
+    <string name="stat_bazaar_level">BAZAAR LVL</string>
+    <string name="stat_coins">COINS</string>
+    <string name="stat_stalls_lit">STALLS LIT</string>
+    <string name="stat_bet">BET</string>
+    <string name="stat_streak">STREAK</string>
+    <string name="stat_charge">CHARGE</string>
+    <string name="stat_won">WON</string>
+    <string name="stat_goods">GOODS</string>
+    <string name="stat_best_streak">BEST STREAK</string>
+    <string name="stat_spins">SPINS</string>
+    <string name="stat_missions">MISSIONS</string>
+    <string name="stat_biggest_win">BIGGEST WIN</string>
+    <string name="stat_hit_rate">HIT RATE</string>
+    <string name="stat_coins_earned">COINS EARNED</string>
+
+    <string name="state_selected">SELECTED</string>
+    <string name="state_locked">LOCKED</string>
+    <string name="state_unlocked">UNLOCKED</string>
+    <string name="state_available">AVAILABLE</string>
+    <string name="state_spinning">SPINNING</string>
+    <string name="state_ready">READY</string>
+
+    <string name="cd_logo">MARKET LANTERN SIGN</string>
+    <string name="cd_menu">BACK TO MENU</string>
+    <string name="cd_pause">PAUSE THE RUN</string>
+
+    <string name="symbol_chili">CHILI GARLAND</string>
+    <string name="symbol_papel">PAPEL PICADO</string>
+    <string name="symbol_crate">FRUIT CRATE</string>
+    <string name="symbol_talavera">TALAVERA POT</string>
+    <string name="symbol_lantern">GOLDEN LANTERN</string>
+
+    <string name="stall_chili_row">CHILI ROW</string>
+    <string name="stall_papel_lane">PAPEL LANE</string>
+    <string name="stall_crate_corner">CRATE CORNER</string>
+    <string name="stall_talavera_plaza">TALAVERA PLAZA</string>
+    <string name="stall_lantern_square">LANTERN SQUARE</string>
+
+    <string name="decor_grand_lantern">GRAND LANTERN</string>
+    <string name="decor_paper_lantern">PAPER LANTERN</string>
+    <string name="decor_bulb_string">BULB STRING</string>
+    <string name="decor_papel_banner">PAPEL BANNER</string>
+    <string name="decor_flag_row">FLAG ROW</string>
+    <string name="decor_ribbon_arch">RIBBON ARCH</string>
+    <string name="decor_chili_string">CHILI STRING</string>
+    <string name="decor_fruit_awning">FRUIT AWNING</string>
+    <string name="decor_spice_sacks">SPICE SACKS</string>
+    <string name="decor_tiled_counter">TILED COUNTER</string>
+    <string name="decor_stone_fountain">STONE FOUNTAIN</string>
+    <string name="decor_market_bench">MARKET BENCH</string>
+
+    <string name="set_lanterns">LANTERNS</string>
+    <string name="set_banners">BANNERS</string>
+    <string name="set_goods">STALL GOODS</string>
+    <string name="set_plaza">PLAZA</string>
+</resources>

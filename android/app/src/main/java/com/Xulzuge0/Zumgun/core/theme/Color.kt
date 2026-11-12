@@ -1,0 +1,25 @@
+package com.Xulzuge0.Zumgun.core.theme
+
+import androidx.compose.ui.graphics.Color
+
+val PlazaBlack = Color(0xFF0B0B0F)
+val MarketSurface = Color(0xFF141418)
+val TinSurface = Color(0xFF1C1C24)
+val WoodSurface = Color(0xFF1E1A14)
+val LanternGold = Color(0xFFD4AF37)
+val CandleGold = Color(0xFFF5D77A)
+val ChiliRed = Color(0xFFC8452F)
+val JadeTick = Color(0xFF2E8B74)
+val TextPrimary = Color(0xFFF3ECDC)
+val TextSecondary = Color(0xFF9A8F7A)
+val TextMuted = Color(0xFF6E6655)
+val GoldHairline = Color(0x55D4AF37)
+val GoldFaint = Color(0x33D4AF37)
+val GoldWhisper = Color(0x22D4AF37)
+val InsetHighlight = Color(0x14FFFFFF)
+val BottomShade = Color(0x66000000)
+val CellSurface = Color(0xD90B0B0F)
+val SheetSurface = Color(0xF2141418)
+val TinTranslucent = Color(0xCC1C1C24)
+val GoldDim = Color(0xFF6E5C2B)
+val GoldDimBright = Color(0xFF8A7536)
